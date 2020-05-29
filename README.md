@@ -14,5 +14,5 @@ It can mount EON by 4ea 6x3mm button magnets to the Gopro windshield open mount.
 <b>Open mount back</b><p>
 <img src="https://github.com/daehahn/comma1.6/blob/master/comma1.6_mount.jpg" width="320">
 
-<b>EON with ppen mount</b><p>
+<b>EON with open mount</b><p>
 <img src="https://github.com/daehahn/comma1.6/blob/master/comma1.6_all.jpg" width="320">
